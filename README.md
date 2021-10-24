@@ -2,10 +2,13 @@
 
 ## **What's the Problem You have been set?**
 
-Write a script that: a. Receives a log as argument (webserver.log is provided) e.g.: ./parser.rb webserver.log b. Returns the following:
-list of webpages with most page views ordered from most pages views to less pageviews e.g.: /home 90 visits /index 80 visits etc...
-list of webpages with most unique page views also ordered
-e.g.: /about/2 8 unique views /index 5 unique views etc
+Write a script that:
+
+1. Receives a log as argument (webserver.log is provided) e.g.: ./parser.rb webserver.log
+2. Returns the following: <br>
+   a) list of webpages with most page views ordered from most pages views to less pageviews e.g.: /home 90 visits /index 80 visits etc...<br>
+   b) list of webpages with most unique page views also ordered<br>
+   e.g.: /about/2 8 unique views /index 5 unique views etc
 
 ### Clarifications:
 
