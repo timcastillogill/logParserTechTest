@@ -17,7 +17,7 @@ In the case of a tie for number of visits, lines are sorted alphabetically
 
 ### Information
 
-Log File Formats The log file supplied as part of this test is a non-standard format, with paths and IP addresses only.
+Log [File Formats](https://www.graylog.org/post/log-formats-a-complete-guide#:~:text=What%20Is%20a%20Log%20Format,machine%2Dreadable%20and%20easily%20parsed) The log file supplied as part of this test is a non-standard format, with paths and IP addresses only.
 
 ## User Stories
 
