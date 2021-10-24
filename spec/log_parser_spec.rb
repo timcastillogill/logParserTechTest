@@ -1,4 +1,4 @@
-require 'tech_test'
+require 'log_parser'
 
 describe 'Test Method' do
   it 'returns Hello World' do
